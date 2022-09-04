@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\obj\Debug\net5.0\SosialPlatform.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\obj\Debug\net5.0\SosialPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\obj\Debug\net5.0\SosialPlatform.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\obj\Debug\net5.0\SosialPlatform.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\obj\Debug\net5.0\SosialPlatform.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\bin\Debug\net5.0\SosialPlatform.exe
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\bin\Debug\net5.0\SosialPlatform.deps.json
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\bin\Debug\net5.0\SosialPlatform.runtimeconfig.json
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\bin\Debug\net5.0\SosialPlatform.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\bin\Debug\net5.0\SosialPlatform.dll
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\bin\Debug\net5.0\ref\SosialPlatform.dll
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\bin\Debug\net5.0\SosialPlatform.pdb
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\obj\Debug\net5.0\SosialPlatform.dll
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\obj\Debug\net5.0\ref\SosialPlatform.dll
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\obj\Debug\net5.0\SosialPlatform.pdb
+C:\Users\ASUS\source\repos\SosialPlatform\SosialPlatform\obj\Debug\net5.0\SosialPlatform.genruntimeconfig.cache
