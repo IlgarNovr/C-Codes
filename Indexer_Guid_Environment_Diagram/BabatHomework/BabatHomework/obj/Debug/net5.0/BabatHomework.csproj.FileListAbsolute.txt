@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\bin\Debug\net5.0\BabatHomework.exe
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\bin\Debug\net5.0\BabatHomework.deps.json
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\bin\Debug\net5.0\BabatHomework.runtimeconfig.json
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\bin\Debug\net5.0\BabatHomework.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\bin\Debug\net5.0\BabatHomework.dll
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\bin\Debug\net5.0\ref\BabatHomework.dll
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\bin\Debug\net5.0\BabatHomework.pdb
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\obj\Debug\net5.0\BabatHomework.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\obj\Debug\net5.0\BabatHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\obj\Debug\net5.0\BabatHomework.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\obj\Debug\net5.0\BabatHomework.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\obj\Debug\net5.0\BabatHomework.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\obj\Debug\net5.0\BabatHomework.dll
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\obj\Debug\net5.0\ref\BabatHomework.dll
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\obj\Debug\net5.0\BabatHomework.pdb
+C:\Users\ASUS\source\repos\BabatHomework\BabatHomework\obj\Debug\net5.0\BabatHomework.genruntimeconfig.cache
