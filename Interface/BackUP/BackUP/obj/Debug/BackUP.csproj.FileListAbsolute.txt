@@ -1,0 +1,6 @@
+/Users/murad/Projects/BackUP/BackUP/obj/Debug/BackUP.csproj.AssemblyReference.cache
+/Users/murad/Projects/BackUP/BackUP/obj/Debug/BackUP.csproj.CoreCompileInputs.cache
+/Users/murad/Projects/BackUP/BackUP/bin/Debug/BackUP.exe
+/Users/murad/Projects/BackUP/BackUP/bin/Debug/BackUP.pdb
+/Users/murad/Projects/BackUP/BackUP/obj/Debug/BackUP.exe
+/Users/murad/Projects/BackUP/BackUP/obj/Debug/BackUP.pdb
